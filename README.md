@@ -5,7 +5,7 @@ This is a chatbot that I made using Langchain and RAG
 
 # Constitution of India Expert Assistant
 
-A Streamlit-based AI assistant that helps users understand the Indian Constitution and related laws using provided document excerpts and precise source citations.
+A Streamlit-based AI assistant that helps users understand the Indian Constitution and related laws using provided document excerpts and precise source citations. (Its not a Legal Advisor)
 
 ## Features
 - **Document Retrieval:** Uses a Chroma vector store for fast search of constitutional texts.
