@@ -1,6 +1,8 @@
 # Ask_Truth
 This is a chatbot that I made using Langchain and RAG 
 
+# Try this : http://34.171.200.14:8501
+
 # Constitution of India Expert Assistant
 
 A Streamlit-based AI assistant that helps users understand the Indian Constitution and related laws using provided document excerpts and precise source citations.
